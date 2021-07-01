@@ -1,0 +1,15 @@
+JPA Customized Operations:
+-------------------------
+
+========Swagger===================
+http://localhost:8082/v2/api-docs
+	//Swagger 2
+	//All the paths
+	//all the api's
+	
+http://localhost:8082/swagger-ui.html
+
+----actuator ------------------
+http://localhost:8081/actuator
+
+
